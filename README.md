@@ -3,6 +3,7 @@ Goal: Create a custom CentOS Kickstart file targeted to Network Administrators/E
 Why: This provides an easily installed and unified management environment with minimal effort
 
 What needs to be installed by the Kickstart:
+
 	SSH Daemon/Custom SSH script built upon OpenSSH
 	Configuration Management tools:
 		NetBox
